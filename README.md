@@ -1,5 +1,7 @@
+<hr/>
 <h3 align="center">Hi, i'm Jacob 👋</h3>
 <h3 align="center">I'm 22 years old and I'm a programmer.</h3>
+<hr/>
 
 ### Hi, i'm Jacob 👋
 ### I'm 22 years old and I'm a programmer.
