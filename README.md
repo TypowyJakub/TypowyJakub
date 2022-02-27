@@ -1,7 +1,6 @@
 <hr/>
 
-### Hi, i'm Jacob 👋
-### I'm 22 years old and I'm a programmer. Mainly plugins for Minecraft servers (Spigot/BungeeCord/Velocity), Discord Bots (JDA) and TeamSpeak3 (ts3j/TeamSpeak 3 Java API)
+#### 👋 Hi, i'm Jacob. I'm 22 years old and I'm a programmer. Mainly plugins for Minecraft servers (Spigot/BungeeCord/Velocity), Discord Bots (JDA) and TeamSpeak3 (ts3j/TeamSpeak 3 Java API)
 
 <hr/>
 
