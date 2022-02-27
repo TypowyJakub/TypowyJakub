@@ -1,4 +1,5 @@
 ### Hi, i'm Jacob 👋
+### I'm 22 years old and I'm a programmer.
 
 ### Language skills:
 # 
